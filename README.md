@@ -1,1 +1,1 @@
-# Correcteur_de_posture
+# Correcteur de posture
